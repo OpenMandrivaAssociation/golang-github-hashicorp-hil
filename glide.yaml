@@ -1,0 +1,7 @@
+import:
+- package: github.com/mitchellh/mapstructure
+  version: 7869cdbd0bea0c846ad7b8b09bac31f34875aa11
+- package: github.com/mitchellh/reflectwalk
+  version: eecf4c70c626c7cfbb95c90195bc34d386c74ac6
+package: github.com/hashicorp/hil
+
